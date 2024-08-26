@@ -1,8 +1,8 @@
-import Greeting from './components/Greeting.jsx';
+import Header from './components/Header.jsx'
 
 function App() {
   return (
-    <Greeting />
+    <Header />
   );
 }
 
